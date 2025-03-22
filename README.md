@@ -13,7 +13,8 @@ This project focuses on detecting **deforestation and water body changes** from 
 ## 📊 Dataset  
 - **Satellite Data**: Extracted using Google Earth Engine (Sentinel-2).  
 - **Regions Covered**: **Manipur, Assam, Arunachal Pradesh (Northeast India)**.  
-- **Preprocessing**: Cloud masking, NDVI & NDWI computation, resizing to 256×256.  
+- **Preprocessing**: Cloud masking, NDVI & NDWI computation, resizing to 256×256.
+- **Dataset Link**: https://drive.google.com/drive/folders/1JXLtZz2apVl0W_J42jTKdb2ZFouynJsh?usp=sharing
 
 
 ## 🛠️ Technologies Used  
